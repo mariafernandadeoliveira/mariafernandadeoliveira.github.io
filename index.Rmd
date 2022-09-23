@@ -1,40 +1,41 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Maria Fernanda de Oliveia"
+image: "foto.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/maria-fernanda-de-oliveira-13666721b/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/mariafernandadeoliveira"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:oliveiramarafernanda3@gmail.com"
 output:
   postcards::trestles
 ---
  
-## Bio
+## Sobre mim
+Sou estudante de Engenharia Mecatrônica da UFSJ. Com grande apreço pela tecnologia, matemática, educação e inovação. Além disso, atuei no mercado de trabalho como jovem aprendiz e conquistei conhecimentos que auxiliaram no meu crescimento profissional. Escolhi trabalhar cedo para conhecer o mercado de trabalho e aprender com ele. Sou uma jovem determinada que procura o aprendizado constante, tanto pessoal, quanto na vida acadêmica e profissional. 
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+## Educação
 
-## Education
+**Universidade Federal de São João-Del Rei (UFSJ)** | Ouro Branco, MG
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+Bacharel em Engenharia Mecatrônica| Setembro 2021 - Julho 2026
 
-Ph.D. in Computer Science | September 2009 - May 2014
+**Serviço Nacional de aprendizagem comercial (SENAC)** | Campo Maior, PI
 
-**The University of California, Berkeley** | Berkeley, CA
+Curso de redação| janeiro 2020 - julho 2020
 
-B.S. in Computer Science | September 2005 - May 2009
+**Unidade escolar estadual Patronato Nossa S. de Lourdes** | Campo Maior, PI
 
-## Experience
+Curso de Robótica| 2018
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Master Cursos** | Campo Maior, PI
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+Curso de Conheciementos Bancários| Abril 2017 - Outubro 2017
+
+
+## Experiência
+
+**Armazém Paraiba** | Assistente de escritório| Março 2019 - Dezembro 2020
+
+
